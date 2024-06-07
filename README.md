@@ -30,7 +30,7 @@ Example websites scraped in this project include:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/web-scraping-project.git
+    git clone https://github.com/aoufnihed/web-scraping-project.git
     cd web-scraping-project
     ```
 
